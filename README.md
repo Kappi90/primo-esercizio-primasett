@@ -1,6 +1,6 @@
 Esercizio 1 della prima settimana del corso React
 
-##PREVIEW
+PREVIEW
 
 
 ![Result](https://user-images.githubusercontent.com/76778662/187237331-eb35df24-d813-40e7-826f-4cf9e1f66d23.png)
